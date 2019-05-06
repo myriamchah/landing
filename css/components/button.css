@@ -1,0 +1,8 @@
+.btn-start-blue {
+  background-color: #b7fbff;
+  color: white;
+  font-weight: 700;
+  border-radius: 50px;
+  border: 1px solid lightgrey;
+  padding: 12px 20px;
+}
